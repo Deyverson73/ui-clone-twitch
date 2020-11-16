@@ -17,7 +17,7 @@ Project built for the purpose of improving mobile interfaces development.
 #### Cloning the project
 ```sh
 git clone https://github.com/Deyverson73/ui-clone-twitch.git
-cd happy
+cd ui-clone-twitch
 npm install
 ```
 #### Starting
