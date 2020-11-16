@@ -22,8 +22,6 @@ npm install
 ```
 #### Starting
 ```sh
-cd ui-clone-twitch
-yarn
 expo start
 ```
 
